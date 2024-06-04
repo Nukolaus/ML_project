@@ -1,1 +1,1 @@
-# ML_project
+Ensemble - ансамбль трех бустингов на дескрипторах, эмбедингах ChemBERTa-10M-MLM, числе символов в SMILES

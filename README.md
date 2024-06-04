@@ -16,3 +16,4 @@
 | CatboostRegressor + BaseLine| 0.382      | 0.803          |
 | CatboostRegressor + ChemBert| 0.339      | 0.858          |
 | LIghtAutoML                 | -          | -              |
+| CatboostRegressor + Ensemble| 0.370      | 1.269          |

@@ -16,7 +16,7 @@
 | ----------------------------|------------|----------------|
 | CatboostRegressor + BaseLine| 0.382      | 0.803          |
 | CatboostRegressor + ChemBert| 0.339      | 0.858          |
-| LightAutoML                 | 0.434      | 0.764          |
+| LightAutoML + BaseLine      | 0.434      | 0.764          |
 | CatboostRegressor + Ensemble| 0.370      | 1.269          |
 
 Классификация на 4 класса показала плохие результаты 
